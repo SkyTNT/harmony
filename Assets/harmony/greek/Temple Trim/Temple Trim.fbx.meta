@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 81bbe0d1206df5c40b152512b1d22cbd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Temple_base
+    100004: Temple_base.018
+    100006: Temple_pillars
+    100008: Temple_pillars.008
+    100010: Temple_roof
+    100012: Temple_roof.008
+    100014: Temple_shrine
+    100016: Temple_shrine.001
+    400000: //RootNode
+    400002: Temple_base
+    400004: Temple_base.018
+    400006: Temple_pillars
+    400008: Temple_pillars.008
+    400010: Temple_roof
+    400012: Temple_roof.008
+    400014: Temple_shrine
+    400016: Temple_shrine.001
+    2100000: Trim.001
+    2300000: Temple_base
+    2300002: Temple_base.018
+    2300004: Temple_pillars
+    2300006: Temple_pillars.008
+    2300008: Temple_roof
+    2300010: Temple_roof.008
+    2300012: Temple_shrine
+    2300014: Temple_shrine.001
+    3300000: Temple_base
+    3300002: Temple_base.018
+    3300004: Temple_pillars
+    3300006: Temple_pillars.008
+    3300008: Temple_roof
+    3300010: Temple_roof.008
+    3300012: Temple_shrine
+    3300014: Temple_shrine.001
+    4300000: Temple_pillars
+    4300002: Temple_base
+    4300004: Temple_shrine
+    4300006: Temple_roof
+    4300008: Temple_base.018
+    4300010: Temple_pillars.008
+    4300012: Temple_roof.008
+    4300014: Temple_shrine.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trim.001
+    second: {fileID: 2100000, guid: 33c1478dace27ab4f8bc95ea098695aa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

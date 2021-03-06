@@ -1,0 +1,18 @@
+Udonで実装したキーボード
+(VRで文字を入力する際のインターフェースの一つとして)
+
+使用開始は一度 Interact します(デフォルトでは無操作状態で5分経つと再び待機状態になります)
+
+右上の「変換」キーでひらがな入力ができます
+カタカナキーを押すとカタカナ入力になります
+U+から始めるとその直後4文字をユニコード符号と判断して該当文字を入力します
+
+エンターキーを押すと Udon Keyboard に設定した Udon Sharp Behaviour の OnEndEdit メソッドをそれぞれ呼び出します
+
+UKeyboard.OnEndEdit() 	: Enterキーを押したときの動作
+UKeyboard.text		: 保持している文字列
+
+Ctrl + BackSpaceで入力欄をClear
+
+同梱のFontファイル
+IPAexGothic
