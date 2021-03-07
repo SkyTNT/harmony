@@ -732,9 +732,9 @@ namespace ReimajoBoothAssets
             }
         }*/
 
-        public void CanBePickUpToggle()
+        public void setCanBePickUp(bool val)
         {
-            _canBePickedUp = !_canBePickedUp;
+            _canBePickedUp = val;
             Debug.Log("[LIFTUP] Can be lift up :"+ _canBePickedUp);
         }
 

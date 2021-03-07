@@ -29,7 +29,7 @@ MonoBehaviour:
     nodes:
     - fullName: Get_Variable
       uid: c85bd08b-bd8c-4d10-bbaf-8fe37b8e67ed
-      position: {x: -330, y: -40}
+      position: {x: -337.7545, y: -30.182423}
       nodeUIDs:
       - 
       flowUIDs: []
@@ -59,7 +59,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: Get_Variable
       uid: c0389565-9622-4b61-9391-395ec701d61b
-      position: {x: -330, y: 40}
+      position: {x: -326.07962, y: 41.5}
       nodeUIDs:
       - 
       flowUIDs: []
@@ -68,7 +68,7 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|8dab0ccc-4f54-4719-973d-0c42ca4cf7f2
     - fullName: VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomEvent__SystemString__SystemVoid
       uid: ce8d78a0-2f92-44e6-a87d-fa989465c978
-      position: {x: 60, y: -60}
+      position: {x: 63.92038, y: -58.5}
       nodeUIDs:
       - c85bd08b-bd8c-4d10-bbaf-8fe37b8e67ed|0
       - c0389565-9622-4b61-9391-395ec701d61b|0
@@ -102,7 +102,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: Event_Interact
       uid: ee611c19-6e9f-4006-a819-d16994e1f506
-      position: {x: -320, y: -130}
+      position: {x: -316.07962, y: -128.5}
       nodeUIDs: []
       flowUIDs:
       - ce8d78a0-2f92-44e6-a87d-fa989465c978
@@ -119,13 +119,13 @@ MonoBehaviour:
       and target are public variables so you can easily change it in the Inspector
       and reuse this graph for other events","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
   - type: 5
-    uid: cddf633d-d48d-4bda-954f-1d0dd8f691c2
+    uid: e1a888ee-d447-45f8-b45e-d3c745f615ef
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":13.0,"y":29.0,"width":239.0,"height":124.0}}'
   - type: 4
-    uid: 46d8d053-df09-42aa-b83b-0d8d8bbabc43
+    uid: 62c8facf-9c21-4c47-b10c-388522859ebe
     jsonData: '{"visible":false,"layout":{"serializedVersion":"2","x":10.0,"y":20.0,"width":0.0,"height":0.0}}'
   viewTransform:
-    position: {x: 698.0099, y: 479.63956}
-    scale: 0.8455822
+    position: {x: 564.70404, y: 425.42252}
+    scale: 0.57175326
   version: 1.0.0
   showAssembly: 0
