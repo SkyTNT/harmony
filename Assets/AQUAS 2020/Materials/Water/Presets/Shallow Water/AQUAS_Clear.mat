@@ -169,7 +169,7 @@ Material:
     - _ProjectGrid: 0
     - _RealtimeReflectionIntensity: 0.551
     - _ReflectionIntensity: 0.546
-    - _Refraction: 0.404
+    - _Refraction: 0.5
     - _Refraction2: 0
     - _RippleStrength: 0.5
     - _Scale0: 0

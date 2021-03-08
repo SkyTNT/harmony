@@ -26,6 +26,8 @@ public class MainMenu : UdonSharpBehaviour
     public Color nightFog;
     public GameObject nightLight;
 
+    public ReflectionProbe reflectionProbe;
+
     public PickingAvatarsUp pickingAvatarsUp;
 
     private Animator terrainAnimator;
@@ -48,6 +50,7 @@ public class MainMenu : UdonSharpBehaviour
             RenderSettings.fogColor = dayFog;
             dayLight.SetActive(true);
             nightLight.SetActive(false);
+            
         }
         else
         {
@@ -56,6 +59,6 @@ public class MainMenu : UdonSharpBehaviour
             dayLight.SetActive(false);
             nightLight.SetActive(true);
         }
-        
+        reflectionProbe.RenderProbe();
     }
 }
